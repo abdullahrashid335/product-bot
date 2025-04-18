@@ -1,0 +1,5 @@
+.env
+__pycache__/
+tickets.db
+*.pyc
+*.csv
